@@ -1,4 +1,4 @@
-﻿This work is a revision of the deepTarget model developed by Lee, Byunghan in the paper ‘Deep Learning-Based microRNA Target Prediction Using Experimental Negative Data’.
+﻿This work is a revision of the deepTarget model developed by Lee, Byunghan (2020) in the paper ‘Deep Learning-Based microRNA Target Prediction Using Experimental Negative Data’.
 
 
 The full GitHub repository is available here: https://github.com/ailab-seoultech/deepTarget.
